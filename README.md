@@ -74,3 +74,36 @@ Data preparation:
 The report will be prepared in English, so I am translating the headings into English and will be working in the English version of Excel.
 
 
+<img width="945" height="471" alt="image" src="https://github.com/user-attachments/assets/15ae8c1e-2e12-45aa-8387-fd43c25f7b77" />
+
+
+Next, I check the data and see what else needs to be corrected.
+
+
+There is a small error here, and the operators’ names are still duplicated. I fix it by selecting the names and double-clicking in the lower corner of the selected area.
+
+
+Then I set the date format.
+
+
+<img width="945" height="465" alt="image" src="https://github.com/user-attachments/assets/cbde51c3-19cb-4c71-ac88-939c0c3655e6" />
+
+
+After that, I select the currency format for the column containing the sales figures.
+
+
+<img width="945" height="475" alt="image" src="https://github.com/user-attachments/assets/589b34da-db3d-4d87-a670-ac63c2a1fd2c" />
+
+
+There is another empty column there called “Conversion.” I need to calculate the conversion rate in that column to determine how effective the sales are.
+
+
+<img width="945" height="473" alt="image" src="https://github.com/user-attachments/assets/b72faba6-64e4-4fb1-88ee-7a54274fee46" />
+
+
+I divide the number of contracts signed by the number of calls, and then set the format to a percentage.
+
+
+
+
+
