@@ -56,3 +56,21 @@ Data:
 The source data was in an Excel file. It contained 313 rows and 8 columns with the following headers: Operator, Data, Połączenia, Skuteczne połączenia, Czas trwania, Zawarte umowy, Konwersja, Wartość sprzedaży.
 
 
+<img width="945" height="486" alt="image" src="https://github.com/user-attachments/assets/7210f804-e84d-4ed3-b6fe-391a1b4c1437" />
+
+
+This is what the data copied from the source file looks like.
+
+
+Notes:
+
+
+This project was carried out to improve my skills and organize the knowledge I have gained in the field of data analysis. I am including this project in my portfolio as evidence of the practical experience I have gained. To expand my knowledge of formulas and working in Excel, the report will be prepared in English.
+
+
+Data preparation:
+
+
+The report will be prepared in English, so I am translating the headings into English and will be working in the English version of Excel.
+
+
