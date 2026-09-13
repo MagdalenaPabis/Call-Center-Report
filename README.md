@@ -1,6 +1,6 @@
 # Call-Center-Report
 
-The “Call Center Report” project was carried out as part of the “From Data to Report” course organized by Polską Fundację Przedsiębiorczości in 2026.
+The “Call Center Report” project was carried out as part of the “From Data to Report” course organized by Polska Fundacja Przedsiębiorczości in 2026.
 The link to the event is provided below:
 
 
@@ -37,5 +37,22 @@ Course participants were given the following tasks to complete:
 
 
 •	Consider what could be improved and make the necessary corrections
+
+
+Project aim:
+
+
+Create an interactive report in Excel that allows users to analyze calls, successful calls, contracts concluded, and effectiveness by operator and transaction time.
+
+
+Tools:
+
+
+The project was created using Microsoft Excel.
+
+Data:
+
+
+The source data was in an Excel file. It contained 313 rows and 8 columns with the following headers: Operator, Data, Połączenia, Skuteczne połączenia, Czas trwania, Zawarte umowy, Konwersja, Wartość sprzedaży.
 
 
