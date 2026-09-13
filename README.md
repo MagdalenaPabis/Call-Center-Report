@@ -396,6 +396,9 @@ The report is complete. It can be filtered by operators and the results can be c
 <img width="945" height="481" alt="image" src="https://github.com/user-attachments/assets/860de8b5-a09e-4da2-b538-fc3cb570ff8c" />
 
 
+
+
+
 <img width="945" height="430" alt="image" src="https://github.com/user-attachments/assets/cabd1775-114e-4fe0-8ddb-5bc3751d4502" />
 
 
